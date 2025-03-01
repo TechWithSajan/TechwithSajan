@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithsajan&label=Profile%20views&color=0e75b6&style=flat" alt="techwithsajan" /> </p>
 
-- 🔭 I’m currently working on ** Cloud/Devops/4G and 5G Technology**
+- 🔭 I’m currently working on **Cloud/Devops/4G and 5G Technology**
 
 - 👯 I’m looking to collaborate on **Developer and Operation, Cloud Native Project**
 
