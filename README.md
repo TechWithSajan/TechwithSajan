@@ -1,7 +1,7 @@
 ![logo](https://titan.email/wp-content/uploads/2022/06/devops1.jpg)
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
 <h1 align="center">Hi 👋, I'm Sajan Nikam</h1>
 <h3 align="center">A Senior Integration Engineer (Deployment 4G/5G Core Node, DevOps, Platform Engineer) from passionate about Deployment production-ready app from India</h3>
