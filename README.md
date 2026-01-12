@@ -11,8 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithsajan&label=Profile%20views&color=0e75b6&style=flat" alt="techwithsajan" /> </p>
 
-<img align="right" alt="DevOps Coding" width="420"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="DevOps Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 
 - 🔭 I’m currently working on **Cloud/Devops/4G and 5G Technology**
