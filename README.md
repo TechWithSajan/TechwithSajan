@@ -1,6 +1,9 @@
 ![logo](https://titan.email/wp-content/uploads/2022/06/devops1.jpg)
 
-
+<!-- START HEADER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hey%2C%20DevOps%27Buddy%20🚀&fontSize=40" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Sajan Nikam</h1>
