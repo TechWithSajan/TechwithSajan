@@ -13,7 +13,8 @@
 
 
 
-<img align="right" alt="Professional Coding" width="420" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<img align="right" alt="Cloud DevOps" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 
 
