@@ -13,7 +13,7 @@
 
 
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/assets/header.gif" />
+<img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
 
 
