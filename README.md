@@ -13,7 +13,8 @@
 
 
 
-<img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+<img align="right" alt="Professional Coding" width="420" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
 
 
 
