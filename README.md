@@ -11,7 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithsajan&label=Profile%20views&color=0e75b6&style=flat" alt="techwithsajan" /> </p>
 
-<img align="right" alt="Automation Engineer" width="420" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg"/>
+<img align="right" width="420" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/master/assets/coder.gif" />
+
 
 
 
