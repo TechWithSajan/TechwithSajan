@@ -2,11 +2,11 @@
 
 <!-- START HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hey%2C%20DevOps%27Buddy%20🚀&fontSize=40" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=🚀Hey%2C%20DevOps%27Buddy%20🚀&fontSize=40" />
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Sajan Nikam</h1>
+<h1 align="center">👋, I'm Sajan Nikam</h1>
 <h3 align="center">A Senior Integration Engineer (Deployment 4G/5G Core Node, DevOps, Cloud Platform Engineer) passionate about Deployment of production-ready application from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithsajan&label=Profile%20views&color=0e75b6&style=flat" alt="techwithsajan" /> </p>
